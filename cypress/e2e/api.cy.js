@@ -1,7 +1,6 @@
 import {faker} from '@faker-js/faker';
 import post from '../fixtures/post.json';
 
-let createdPostId;
 
 describe('API tests', () => {
 
